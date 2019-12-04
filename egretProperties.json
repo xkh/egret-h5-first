@@ -1,0 +1,34 @@
+{
+  "engineVersion": "5.2.30",
+  "compilerVersion": "5.2.30",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "dragonBones"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    }
+  ],
+  "urlParams":{
+      "_k": "000"
+  }
+}
